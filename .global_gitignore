@@ -1,0 +1,4 @@
+*.db
+.vscode
+.python-version
+docker-compose.override.yml
